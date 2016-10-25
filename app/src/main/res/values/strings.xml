@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StudyApp</string>
+    <string name="new_assignment_message">Add Assignment</string>
+    <string name="new_assignment_hint">Enter Assignment Name</string>
+    <string name="new_assignment_button">Create New Assignment!</string>
+    <string name="due">Due Soon</string>
+</resources>
